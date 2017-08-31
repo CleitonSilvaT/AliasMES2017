@@ -17,9 +17,9 @@ Caso seja necessário utilizar a heuristica3(), deverá ser realizada auteraçã
 
 ## Execução
 
-[1] Faça o download do projeto
-[2] Importe o projeto no eclipse
-[3] Execute a classe Commits
+1 - Faça o download do projeto *
+2 - Importe o projeto no eclipse \n
+3 - Execute a classe Commits /n
 
 ## Exemplo Utilização
 
