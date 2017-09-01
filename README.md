@@ -17,103 +17,103 @@ Caso seja necessário utilizar a heuristica3(), deverá ser realizada auteraçã
 
 ## Execução
 
-1 - Faça o download do projeto *
-2 - Importe o projeto no eclipse \n
-3 - Execute a classe Commits /n
+1 - Faça o download do projeto<br />
+2 - Importe o projeto no eclipse<br />
+3 - Execute a classe Commits
 
 ## Exemplo Utilização
 
-Digite a URL:|
-https://github.com/airbnb/javascript |
-Recuperando informações dos Commits |
-............................................................|
+Digite a URL:<br />
+https://github.com/airbnb/javascript<br />
+Recuperando informações dos Commits<br />
+............................................................
 
 ### Resultado
 
-Total de Usuários que realizaram Commits - 397
+Total de Usuários que realizaram Commits - 397<br />
 
-Total de Alias com Nomes Iguais - 16
-Total de Alias com Emails Iguais - 3
-Total de Alias Encontrado - 19
+Total de Alias com Nomes Iguais - 16<br />
+Total de Alias com Emails Iguais - 3<br />
+Total de Alias Encontrado - 19<br />
 
-Relatório de Alias com Nomes Iguais
-#######################################
+Relatório de Alias com Nomes Iguais<br />
+#######################################<br />
 
-Alias 1
-Ross Allen - Ross Allen
-ross@airbnb.com - reallen@gmail.com
+Alias 1<br />
+Ross Allen - Ross Allen<br />
+ross@airbnb.com - reallen@gmail.com<br />
 
-Alias 2
-Felix Sanz - Felix Sanz
-me@felixsanz.com - felixsanz@users.noreply.github.com
+Alias 2<br />
+Felix Sanz - Felix Sanz<br />
+me@felixsanz.com - felixsanz@users.noreply.github.com<br />
 
-Alias 3
-Jan Hořava - Jan Hořava
-czechinthemail@gmail.com - honzi@users.noreply.github.com
+Alias 3<br />
+Jan Hořava - Jan Hořava<br />
+czechinthemail@gmail.com - honzi@users.noreply.github.com<br />
 
-Alias 4
-Harrison Shoff - Harrison Shoff
-hi@hshoff.com - harry@airbnb.com
+Alias 4<br />
+Harrison Shoff - Harrison Shoff<br />
+hi@hshoff.com - harry@airbnb.com<br />
 
-Alias 5
-Stephen Wyatt Bush - Stephen Wyatt Bush
-stephen.bush@airbnb.com - stephen.wyatt@gmail.com
+Alias 5<br />
+Stephen Wyatt Bush - Stephen Wyatt Bush<br />
+stephen.bush@airbnb.com - stephen.wyatt@gmail.com<br />
 
-Alias 6
-Spike Brehm - Spike Brehm
-spike@airbnb.com - ocelot@gmail.com
+Alias 6<br />
+Spike Brehm - Spike Brehm<br />
+spike@airbnb.com - ocelot@gmail.com<br />
 
-Alias 7
-Jake Teton-Landis - Jake Teton-Landis
-just.1.jake@gmail.com - jake.tl@airbnb.com
+Alias 7<br />
+Jake Teton-Landis - Jake Teton-Landis<br />
+just.1.jake@gmail.com - jake.tl@airbnb.com<br />
 
-Alias 8
-Alvin Sng - Alvin Sng
-alvinsng@users.noreply.github.com - alvin.sng@airbedandbreakfast.com
+Alias 8<br />
+Alvin Sng - Alvin Sng<br />
+alvinsng@users.noreply.github.com - alvin.sng@airbedandbreakfast.com<br />
 
-Alias 9
-Jordan Gensler - Jordan Gensler
-jordan.gensler@airbnb.com - jordangens@gmail.com
+Alias 9<br />
+Jordan Gensler - Jordan Gensler<br />
+jordan.gensler@airbnb.com - jordangens@gmail.com<br />
 
-Alias 10
-Felipe Vargas - Felipe Vargas
-fvargasx@gmail.com - git@fvgs.ai
+Alias 10<br />
+Felipe Vargas - Felipe Vargas<br />
+fvargasx@gmail.com - git@fvgs.ai<br />
 
-Alias 11
-Randall Reed, Jr - Randall Reed, Jr
-rareed@xogrp.com - randallreedjr@gmail.com
+Alias 11<br />
+Randall Reed, Jr - Randall Reed, Jr<br />
+rareed@xogrp.com - randallreedjr@gmail.com<br />
 
-Alias 12
-Joe Lencioni - Joe Lencioni
-joe.lencioni@airbnb.com - joe.lencioni@gmail.com
+Alias 12<br />
+Joe Lencioni - Joe Lencioni<br />
+joe.lencioni@airbnb.com - joe.lencioni@gmail.com<br />
 
-Alias 13
-Kevin Cooper - Kevin Cooper
-kcooper@yahoo-inc.com - cooperka92@gmail.com
+Alias 13<br />
+Kevin Cooper - Kevin Cooper<br />
+kcooper@yahoo-inc.com - cooperka92@gmail.com<br />
 
-Alias 14
-Josh Perez - Josh Perez
-josh@goatslacker.com - josh.perez@airbnb.com
+Alias 14<br />
+Josh Perez - Josh Perez<br />
+josh@goatslacker.com - josh.perez@airbnb.com<br />
 
-Alias 15
-Mitsuru Ogawa - Mitsuru Ogawa
-mitsuru.ogawa.jp+github@gmail.com - mitsuru.ogawa.jp@gmail.com
+Alias 15<br />
+Mitsuru Ogawa - Mitsuru Ogawa<br />
+mitsuru.ogawa.jp+github@gmail.com - mitsuru.ogawa.jp@gmail.com<br />
 
-Alias 16
-Bishop Zareh - Bishop Zareh
-bishop@compasslearning.com - xchicago@gmail.com
+Alias 16<br />
+Bishop Zareh - Bishop Zareh<br />
+bishop@compasslearning.com - xchicago@gmail.com<br />
 
-Relatório de Alias com Emails Iguais
-#######################################
+Relatório de Alias com Emails Iguais<br />
+#######################################<br />
 
-Alias 1
-Mikael Finstad - mifi
-finstaden@gmail.com - finstaden@gmail.com
+Alias 1<br />
+Mikael Finstad - mifi<br />
+finstaden@gmail.com - finstaden@gmail.com<br />
 
-Alias 2
-Giang Nguyen - giang pi
-nguyengiangdev@gmail.com - nguyengiangdev@gmail.com
+Alias 2<br />
+Giang Nguyen - giang pi<br />
+nguyengiangdev@gmail.com - nguyengiangdev@gmail.com<br />
 
-Alias 3
-SpenUK - Spen Taylor
+Alias 3<br />
+SpenUK - Spen Taylor<br />
 spen_@hotmail.co.uk - spen_@hotmail.co.uk
